@@ -1,0 +1,4 @@
+{"event":"received","message":"..."}
+{"event":"download","url":"..."}
+{"event":"analysis","rows":123}
+{"event":"reply","answer":...}
